@@ -1,5 +1,8 @@
 {
-    "compilerOptions": {
-        "outDir": "./build"
-    }
+  "compilerOptions": {
+    "declaration": true,
+    "moduleResolution": "node",
+    "outDir": "./build",
+    "plugins": [{ "name": "typescript-workspace-plugin" }]
+  }
 }

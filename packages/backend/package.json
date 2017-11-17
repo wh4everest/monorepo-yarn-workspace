@@ -4,6 +4,7 @@
   "main": "build/index.js",
   "license": "MIT",
   "dependencies": {
-    "lodash": "3.10.1"
+    "lodash": "3.10.1",
+    "h4-zip": "^1.0.0"
   }
 }
