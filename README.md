@@ -2,6 +2,8 @@
 
 Komit 1
 
+Komit 2
+
 To see how it works:
 
 ```bash
