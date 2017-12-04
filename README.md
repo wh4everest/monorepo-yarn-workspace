@@ -15,3 +15,5 @@ node build/index.js
 ```
 
 Try editing the files in VSCode.
+
+Remove this line.
