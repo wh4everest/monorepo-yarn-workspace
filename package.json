@@ -4,7 +4,12 @@
   "main": "index.js",
   "license": "MIT",
   "private": true,
-  "workspaces": [
-    "packages/*"
-  ]
+  "workspaces": ["packages/*"],
+  "workspace-sources": {
+    "*": ["packages/*/src"]
+  },
+  "devDependencies": {
+    "typescript": "^2.6.1",
+    "typescript-workspace-plugin": "^1.0.2"
+  }
 }
