@@ -1,5 +1,7 @@
 # monorepo-yarn-workspace
 
+Komit 1
+
 To see how it works:
 
 ```bash
